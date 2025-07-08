@@ -2,7 +2,7 @@
 
 # 🌟 Eluxo – E-Commerce React App
 
-**Eluxo** is a modern, premium e-commerce platform built with **React** and **Vite**. It delivers a seamless shopping experience for luxury, fashion, tech, and lifestyle products. The app features user authentication, dynamic product browsing, a clean checkout flow, and a stylish, responsive UI.
+**Eluxo** is a modern, premium e-commerce platform built with **React** and **Vite**. It delivers a seamless shopping experience for luxury, fashion, tech, and lifestyle products. The app features user authentication, dynamic product browsing, a clean checkout flow, and a stylis UI.
 
 ---
 
